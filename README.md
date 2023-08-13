@@ -1,4 +1,4 @@
-# Password Generator
+![image](https://github.com/rasid05/Password_Generator/assets/96607288/61858e89-a87e-4772-8dec-15883f212608)# Password Generator
 
 A simple password generator web application built using HTML, CSS, and JavaScript.
 
@@ -12,6 +12,10 @@ A simple password generator web application built using HTML, CSS, and JavaScrip
 - [Contact](#contact)
 
 ## Demo
+
+https://password-generator-rasid.netlify.app/
+
+![Screenshot (612)](https://github.com/rasid05/Password_Generator/assets/96607288/5b076e4c-6b87-46e0-be78-cf41f0441fd7)
 
 
 ## Features
