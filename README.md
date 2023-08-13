@@ -1,4 +1,4 @@
-![image](https://github.com/rasid05/Password_Generator/assets/96607288/61858e89-a87e-4772-8dec-15883f212608)# Password Generator
+# Password Generator
 
 A simple password generator web application built using HTML, CSS, and JavaScript.
 
