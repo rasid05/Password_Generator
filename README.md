@@ -43,6 +43,6 @@ List the key features of password generator:
 
 ## Contact
 
-- Email: your.email@example.com
+- Email: rasidk323@.com
 - Twitter: [@rasid786khan](https://twitter.com/rasid786khan)
 - GitHub: [Rasid Khan](https://github.com/rasid05)
